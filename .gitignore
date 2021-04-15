@@ -1,0 +1,6 @@
+.history
+node_modules
+test_output
+bst-debug.log
+.DS_Store
+.env
