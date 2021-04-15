@@ -62,6 +62,6 @@ configuration:
 - $DIAL :
   - prompt : Welcome to the Bespoken Airlines Contact Center *
   - set finishOnPhrase : in a few words please tell me what you're calling about
-- I need help: 
+- Help: 
   - prompt: Hang in there and I'll connect you with an agent
   - set repeatOnPhrase : in a few words please tell me what you're calling about
